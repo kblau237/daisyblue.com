@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+![BlueDaisy](/images/bluedaisy.jpeg)
